@@ -1,7 +1,7 @@
 # JW.Abulance
 
 Hi there! 👋  
-Welcome to **JW-Abulance**, a project I’m building to help make emergency medical services faster and more reliable. The idea is to simplify how ambulances are assigned and tracked during emergencies.  
+Welcome to **JW.Abulance**, a project I’m building to help make emergency medical services faster and more reliable. The idea is to simplify how ambulances are assigned and tracked during emergencies.  
 
 ## What’s This About?
 
@@ -34,7 +34,7 @@ Here’s how you can run it on your computer:
 
 ## My purpose of doing this;
 
-I’ve always been passionate about using technology to solve real-life problems, and JW-Abulance is one way I’m exploring that. My goal is to create something that could actually save lives by reducing response time in emergencies.
+I’ve always been passionate about using technology to solve real-life problems, and JW.Abulance is one way I’m exploring that. My goal is to create something that could actually save lives by reducing response time in emergencies.
 
 ## Wanna Help?
 
