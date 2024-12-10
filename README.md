@@ -1,4 +1,4 @@
-# JW-Abulance
+# JW.Abulance
 
 Hi there! 👋  
 Welcome to **JW-Abulance**, a project I’m building to help make emergency medical services faster and more reliable. The idea is to simplify how ambulances are assigned and tracked during emergencies.  
